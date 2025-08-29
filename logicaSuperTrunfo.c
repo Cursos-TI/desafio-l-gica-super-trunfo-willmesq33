@@ -1,4 +1,4 @@
-// Desafio Super Trunfo - Países
+// Desafio Super Trunfo 
 // Tema 3 - desenvolvendo a logica do jogo
 #include <stdio.h>
 
